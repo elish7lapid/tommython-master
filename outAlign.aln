@@ -1,0 +1,488 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+boa                       ------------------------------------------------------------
+burmese_python            ------------------------------------------------------------
+coelacanth                ------------------------------------------------------------
+elephant_shark            ATTTAAAATGTCATCTGGATCTTGTGTGACCTGGACTCTCCTCGTCTGTCTTGGTTTGTG
+platypus                  ------------------------------------------------------------
+chicken                   ------------------------------------------------------------
+Human                     ------------------------------------------------------------
+mouse                     ------------------------------------------------------------
+cow                       ------------------------------------------------------------
+dolphin                   ------------------------------------------------------------
+horse                     ------------------------------------------------------------
+megabat                   ------------------------------------------------------------
+sloth                     ------------------------------------------------------------
+lizard                    ------------------------------------------------------------
+speckled_rattlesnake      ------------------------------------------------------------
+king_cobra                ------------------------------------------------------------
+                                                                                      
+
+boa                       ------------------------------------------------------------
+burmese_python            ------------------------------------------------------------
+coelacanth                ------------------------------------------------------------
+elephant_shark            ATCAGGCAGAAGTTATGATTGTATAAACCAGACGTCAGGTTGTATTTCAACAGACGGCTT
+platypus                  ------------------------------------------------------------
+chicken                   ------------------------------------------------------------
+Human                     ------------------------------------------------------------
+mouse                     ------------------------------------------------------------
+cow                       ------------------------------------------------------------
+dolphin                   ------------------------------------------------------------
+horse                     ------------------------------------------------------------
+megabat                   ------------------------------------------------------------
+sloth                     ------------------------------------------------------------
+lizard                    ------------------------------------------------------------
+speckled_rattlesnake      ------------------------------------------------------------
+king_cobra                ------------------------------------------------------------
+                                                                                      
+
+boa                       ------------------------------------------------------------
+burmese_python            ------------------------------------------------------------
+coelacanth                ------------------------------------------------------------
+elephant_shark            TTAAAATGAACTGAGGTGTTGAGCTGTCCTGTATGTAGACTCTACGCTACTTCATAGTCA
+platypus                  ------------------------------------------------------------
+chicken                   ------------------------------------------------------------
+Human                     ------------------------------------------------------------
+mouse                     ------------------------------------------------------------
+cow                       ------------------------------------------------------------
+dolphin                   ------------------------------------------------------------
+horse                     ------------------------------------------------------------
+megabat                   ------------------------------------------------------------
+sloth                     ------------------------------------------------------------
+lizard                    ------------------------------------------------------------
+speckled_rattlesnake      ------------------------------------------------------------
+king_cobra                ------------------------------------------------------------
+                                                                                      
+
+boa                       ------------------------------------------------------------
+burmese_python            ------------------------------------------------------------
+coelacanth                ------------------------------------------------------------
+elephant_shark            ATGCTTCTGAAATTTCAAAAAATCCTTTGCCGTTCAAGTAAAGCTTTGATGTTTTTATTT
+platypus                  ------------------------------------------------------------
+chicken                   ------------------------------------------------------------
+Human                     ------------------------------------------------------------
+mouse                     ------------------------------------------------------------
+cow                       ------------------------------------------------------------
+dolphin                   ------------------------------------------------------------
+horse                     ------------------------------------------------------------
+megabat                   ------------------------------------------------------------
+sloth                     ------------------------------------------------------------
+lizard                    ------------------------------------------------------------
+speckled_rattlesnake      ------------------------------------------------------------
+king_cobra                ------------------------------------------------------------
+                                                                                      
+
+boa                       ------------------------------------------------------------
+burmese_python            ------------------------------------------------------------
+coelacanth                ------------------------------------------------------------
+elephant_shark            GGTCGGGTGTTAAAGACACCTCGGAGACGGAATGAAAGTGAGGAACATTGCGATCCTGAT
+platypus                  ------------------------------------------------------------
+chicken                   ------------------------------------------------------------
+Human                     ------------------------------------------------------------
+mouse                     ------------------------------------------------------------
+cow                       ------------------------------------------------------------
+dolphin                   ------------------------------------------------------------
+horse                     ------------------------------------------------------------
+megabat                   ------------------------------------------------------------
+sloth                     ------------------------------------------------------------
+lizard                    ------------------------------------------------------------
+speckled_rattlesnake      ------------------------------------------------------------
+king_cobra                ------------------------------------------------------------
+                                                                                      
+
+boa                       ------------------------------------------------------------
+burmese_python            ------------------------------------------------------------
+coelacanth                ------------------------------------------------------------
+elephant_shark            TGAGTCGGTTGTTGGCACGGTGTAAGGATTAGGCCTTTCATTCTTGTTCTTGACTCTTAA
+platypus                  ------------------------------------------------------------
+chicken                   ------------------------------------------------------------
+Human                     ------------------------------------------------------------
+mouse                     ------------------------------------------------------------
+cow                       ------------------------------------------------------------
+dolphin                   ------------------------------------------------------------
+horse                     ------------------------------------------------------------
+megabat                   ------------------------------------------------------------
+sloth                     ------------------------------------------------------------
+lizard                    ------------------------------------------------------------
+speckled_rattlesnake      ------------------------------------------------------------
+king_cobra                ------------------------------------------------------------
+                                                                                      
+
+boa                       ------------------------------------------------------------
+burmese_python            ------------------------------------------------------------
+coelacanth                ------------------------------------------------------------
+elephant_shark            CGGTGACCCGTCCTGCAGACTCTCTCCCGAATAAATGATATATTAAAATTTCTTGTTTTA
+platypus                  ------------------------------------------------------------
+chicken                   ------------------------------------------------------------
+Human                     ------------------------------------------------------------
+mouse                     ------------------------------------------------------------
+cow                       ------------------------------------------------------------
+dolphin                   ------------------------------------------------------------
+horse                     ------------------------------------------------------------
+megabat                   ------------------------------------------------------------
+sloth                     ------------------------------------------------------------
+lizard                    ------------------------------------------------------------
+speckled_rattlesnake      ------------------------------------------------------------
+king_cobra                ------------------------------------------------------------
+                                                                                      
+
+boa                       ------------------------------------------------------------
+burmese_python            ------------------------------------------------------------
+coelacanth                ------------------------------------------------------------
+elephant_shark            AAAGTATTGACAGAGTGCAGCAGTTATCCGCCTAGTGAGAAATCCAAAATAAAATCTGAA
+platypus                  ------------------------------------------------------------
+chicken                   ------------------------------------------------------------
+Human                     ------------------------------------------------------------
+mouse                     ------------------------------------------------------------
+cow                       ------------------------------------------------------------
+dolphin                   ------------------------------------------------------------
+horse                     ------------------------------------------------------------
+megabat                   ------------------------------------------------------------
+sloth                     ------------------------------------------------------------
+lizard                    ------------------------------------------------------------
+speckled_rattlesnake      ------------------------------------------------------------
+king_cobra                ------------------------------------------------------------
+                                                                                      
+
+boa                       ----------------------------------------------------GCTATATA
+burmese_python            ----------------------------------------------------GCTATATA
+coelacanth                ------------------------------------------------------------
+elephant_shark            GCCTAACCACATACAGAAACGAGTGTCTGTGTCATGACATTTTGCTGATACAAACCTGTG
+platypus                  -----------------------------------------------------CACCTTT
+chicken                   -----------------------------------------------------TACCTTA
+Human                     -----------------------------------------------------AACTTTA
+mouse                     -----------------------------------------------------TACTTTA
+cow                       -----------------------------------------------------CACATTA
+dolphin                   -----------------------------------------------------CACGTTA
+horse                     -----------------------------------------------------CACCTTA
+megabat                   -----------------------------------------------------CACCTTA
+sloth                     -----------------------------------------------------CACCTTT
+lizard                    ---------------------------------------------------TTTCATTTA
+speckled_rattlesnake      ---------------------------------------------------TACTCAGTG
+king_cobra                ------------------------------------------------------------
+                                                                                      
+
+boa                       AGCATAACTGTTATATGATGGGAAGACTTGGACAAGTTCTTATG--GAAGTAATTTTACA
+burmese_python            AACATAACTGTTATGTGATGGGAAGACCTGAACAAGTTCTTATG--GAAGTAATTTTGAA
+coelacanth                --------------------------------------------------------CAAC
+elephant_shark            AAAATAATCTGAGAGTGATATTATCCACATGTTCATCTAAAACAGTCAAATGACATCAGC
+platypus                  ATGCCAATCTTTGTATTTGA--AGTCACGGCATAAAGTTTAACA--TGAGCGACAGCAAC
+chicken                   ATACTGATCTTTGAACTCGA--AGTCACGGCATAAAGTTTAACA--TGAGCGACAGCAAC
+Human                     ATGCCTATGTTTG-ATTTGA--AGTCATAGCATAAAAGGTAACA--TAA------GCAAC
+mouse                     ATGCCTATCTTTG-ATTTGA--AGTCCTGGCATAAAACTTAACA--TAA-TGACAGCAAC
+cow                       ATGCCTATTTTTG-ATTTGA--AGTTGTGGCATAAAATTTAACA--TAAGTGACAGCAAC
+dolphin                   ATGCCTGTCTTGG-GTTTGA--AGTCATGGTATAACATTTAACA--TAAGTGACAGCAAC
+horse                     ATGCCTATCTTTG-ATTTGA--AGTCATG-CATAAAGTTTAACA--TAAGTGACAGCAAC
+megabat                   ATGCCGATCTTTG-ATTTGA--AATCATAGCATAAAATTTAACA--TAAGTGACAGCAAC
+sloth                     ATACCTGTCTTTG-ATTTGA--GGTCATGGCATAAAATTTAACA--TAAGTGGCAGCAAC
+lizard                    ATATTGATTTTTTGTTGTTC----TCCTAGCATAAAATTTACTA--TGTGCGACAGCAAC
+speckled_rattlesnake      GAGAAAATCTGTGGATTCAG-----AGCTTAACCAAGAACATCA--AAAGAGGATGCTTA
+king_cobra                --------------------------------------------TGAACGGAATATAATC
+                                                                                      
+
+boa                       ACCC-----AGTTGTGCAAAGCATCCAGACATCTC----TGTTTGGCATCCAGTG---CA
+burmese_python            ACCC-----AATTGTGCAAAGCATCCAGACATCTTA--GTGTTTGGCACCCAATG---CA
+coelacanth                ATCCTGAGCAATTAGTGAAATCATCCAGACGTCGCACAACCATTCAGCACAAGCG---CA
+elephant_shark            ATCCTAACCAATTATCCCAATTATCCAGACATTACA-AAACATTGAACTCAAATG---TA
+platypus                  ATCCTGACCAATTATCCAAATTATCCAGACATCCCAAAATGGTCAGAACACAACA---CA
+chicken                   ATCCTGACCAATTATCCAAATTATCCAGACATCCCAAAATGTTCAGAACACAACA---CA
+Human                     ATCCTGACCAATTATCCAAACCATCCAGACATCCCTGAATGGCCAGAGCGTAGCA---CA
+mouse                     ATCCTGACCAATTATCCAAACCATCCAGCCATCCTAGAGTGTCCAGAACCTCACA---CA
+cow                       ATCCTGACCAATTACCGAAGCCATCCAGACATCCCCAAATGTCCAGAACATAGCA---CA
+dolphin                   ATCCTGACCAATTACCTAAGCCATCCAGACACCCCCAGATGTCCAGAACATAGCA---CA
+horse                     ATCCTGACCAATTACTCAAACCATCCAGACATCCCCAAATGTCCAGAACATAGCA---CA
+megabat                   ATCCTGACCAATTACCCAAACCATGCAGACATCCCCAAACGTCCAGAACATAGCA---CA
+sloth                     ATCCTGACCAATTATCCAAACTATCCAGACATCCCAAAATGTTCAGAACATAACA---CA
+lizard                    ATCCTGACCAATTATGCAAAGCATCCAGACATTTC--AGTGTTTGGAACACACCA---GA
+speckled_rattlesnake      ATAAAGGACATAAATTCTAACTATTGCATGGTGGTGCAGTGGTTAGAATGCAATATTGCA
+king_cobra                TTCCTACTCATGTTCTCCCAACAACAGGGAGTCAGGCAGTTGATAGTACA-GGTAATATA
+                                   *            *                                    *
+
+boa                       GAAAGTCTGT-GGATTGAGAGT-TTAAC--CAAGAACA---TCAAAAG-AGAATGCTTG-
+burmese_python            GAAAGTCTGT-GGATTGAGAGC-TTAAC--CAAGAACA---TCAAAAG-AGAATGCTTG-
+coelacanth                GA--GTCTGCAGGATTTAGGAGTTGAACTCCTAAAACA---TCAAAAG-GGAATGCCTG-
+elephant_shark            GC--AGCTGTGAGTTTGAGAGTCTTAA---CTGAAACG---CTTAAA----AAAGTCTA-
+platypus                  ----GTCTGTAGGATTAAGAGG-TTAACTCCTAGAAC----ATCAAAA-GAAGTGCTTG-
+chicken                   CAGAGTCTGT-GGATTAAGAGG-TTAACTCCTGGAAC----ATCAAA--GTAGTGCATG-
+Human                     CG--GTCTGTAGGATTAAGAGG-TTAACTCCTATAAC----TTCAAAC-AAAGTGCCTG-
+mouse                     TG--ATCTATAGGATTAAGAGG-TTAGCTCCTGTAAC----TTCAAAC-AAAGTACTTTC
+cow                       CG--GTCTGTAGGATTAAGAGG-TTAACTCCTCGAAC----TTCAAAC-AAAGTGCTTG-
+dolphin                   CG--GTCTGTAGGATTAAGAGG-TTAACTCCTAGAAC----TTCAAAC-GAAGTGCTTG-
+horse                     CG--GTCTGTAGGATTAAGAGG-TTAACTCCTATAAC----TTCAAAC-GAAGTGCTTG-
+megabat                   CG--GTCTGTGGGATTAAGAGG-TTAACTCCTATAAC----TTCAAAC-GAAGTGCTTG-
+sloth                     TG--GTCTGTAGGATTAAGAGG-TTAATTCCTATAAC----TTCAAAC-AAAGTGCTTA-
+lizard                    AAAAGTCTGT-GGATTAAGAGG-TTAACTTGGAGAACA---TCAAAAG-ACAGTCTCTG-
+speckled_rattlesnake      GGATATTGCCAGCAGTTCGATTCTGACCTGCTCAAGGTTGACTCAGCCTTCCATCTTTCC
+king_cobra                AGAAGACTTTGGTAGTGAATAGATGCAGGTAGGTAGA----TGCAAATCCCTGTATCTGA
+                                         *       *          *         *            *  
+
+boa                       --ATAATAAAAGCAAATGGTAGCAAA-----------AATT------TTA------ATTA
+burmese_python            --ATAATAAAAGCAAATGGTAGCGAA-----------ATTT------TTA------ATTA
+coelacanth                --ATAATAAAAATAATCGGTACAAAAA-TTTGAGGTAACTTCCTTGCCTA------ATTA
+elephant_shark            --TTAATAAAGAGAG-CAGTATGAAAA-TT-GCAGTGATTTCCTTGACTA------ATTA
+platypus                  --ATAATAAAAGCAAATAGTACAAAAA-TTTGAGGTAACTTCCTCGCTTA------ATTA
+chicken                   --ATAATAAAAACAAATAGTACAAAAA-TTTGAGGTAACTTCCTTGCTTA------ATTA
+Human                     --ATAATAAAAGCAAAAAGTACAAAA--TTTTAGGTAACTTCCTTTCTTA------ATTA
+mouse                     --ATAATAAAAGTAAAATGCACAAAA--TCTGAGGTCACTTCCTCTCTTA------ATTA
+cow                       --ATAATAAAAGCAGAAAGGACAAAA--TCTGAGGTAACTTCCTTTCTTA------ATTA
+dolphin                   --ATAATAAAAGCAAAAAGTACAAAA--TCTGAGGTGACTTCCTTTCTTA------ATTA
+horse                     --ATAATAAAAGCAAAAAGTACAAAA--TTTGAGGTAACTTCCTTTCTTA------ATTA
+megabat                   --ATAATAAAAGCAAAAAGTACAAAA--TTTGCGGTAACTTCCTTTCTTA------ATTA
+sloth                     --ATAATAAAAGCAAAAAGTACAAAA--TTTGAGGTAACTTCCTTTCTTA------ATTA
+lizard                    --ATAATAAAAGCAAATGGTAGAAAAATTCTGAGGTAACTTCCTTGCTTA------ATTA
+speckled_rattlesnake      --AAGGTCAGTAAAGTGAGGACCCAAGTCTAAGTGCTATTGCTGTGGCTATAAACCATTA
+king_cobra                AGTTGACCCCGGGGATAAATTGGAGGTACTAGTTGGTATTCAGATAATCC-------TTG
+                                                               * *                 ** 
+
+boa                       ATTAGGTAGGCCAGGTGGAAGTGAAGAGGCCAG---------TCTATAAAGC---TG---
+burmese_python            ATTAGGTAGGCCAGGTGGAAGTGAAGAGGCCCG---------TCTATAAAGC---TGTAA
+coelacanth                ATTAGATAGACCAGGTGGAAGCGAAGAGGCTGGTGCTGTGGCTCAAAATGTC---TATAA
+elephant_shark            ATTAGATCCACCAGATGGAAGTGAAGAGGCCAATATTGGTGCTCAAAATGTC---TATAA
+platypus                  ATTAGGTAGACCAGGTGGAAGTGAAGAGGCCTGGGCTGGTGCTTGGAATGTC---TATAA
+chicken                   ATTAGGTAGACCAGGTGGAAGCGAAGAGGCCAGAGCTGGTGCTCAGAATGTC---TATAA
+Human                     ATTGGACTGACCAGGTGGAAGCGAAGAGTTCTGTGCTGGTGCTTGGAATGTC---TATAA
+mouse                     GTTGCACTGACCAGGTGGAGGCGAAGCACTTTG--CTGG-GCTCAGGCTGTC---CATAA
+cow                       ATTAGACTGGCCAGGTGGAAGCGAAGAGCTGGGTGCCAGTGCTTGCAAGGCC---TATAA
+dolphin                   ATTAGACTGGCCAGGTGGAAGCCAAGAGCTGGGTGC-GGTGCTTGGAAGGTC---TATAA
+horse                     ATTAGACTGACCAGGTGGAAGCGAAGCGCTCGGTGCCGGTGCTTGGA-GGCC---TATAA
+megabat                   ATTAGACTGACCAGGTGGAAGCGAAGGGCTCGGTGCTGGTGCTCGGCGGGTC---CATAA
+sloth                     GTTAGACTGACCAGGTGGAAGCGAAGCGTTCTGTGCTGGTGCTTGCAATATC---TATAA
+lizard                    ATTAGGTAGGCCAGGTGGAAGTGAAGAGGTCTGTGTTGCTGCTAAGGATATC---TATAA
+speckled_rattlesnake      GCTAATAAAAGCAAATGGTAGCAATTTCTTTAATTAATTAGGCCAGATGTTCAGCTGTGA
+king_cobra                ACTTAATGACCACAATTGAGCCCAAAATCTCCTGGTTTATGTTCCTTTTGCCAAACTTAT
+                            *            * *     *                           *        
+
+boa                       -----AGCAACATGACAGCACA-ATGGAGGAGGAACAAAGCTT-GTTTTAATATACTTCT
+burmese_python            AGCTGAGCAACATGACAGCACA-ATGGAGGAGGAACAAAGATT-GTTTTAATATACTTCT
+coelacanth                AGCCAAGTGCCATGACAGCACA-ATAGATGAGGAACAAAGATT---TTTAATACGCTTCT
+elephant_shark            ACCTGAGCAAAAAGACAGCACA-ATGGATGAGAAAAAAAGATT---TTTAATACACTTCA
+platypus                  AGCTGAGCAACATGACAGCACA-ATGGAGGAGGAACAAAGATT-TTTTTAATATGCTTCT
+chicken                   AGCTGAGCAACATGACAGCACA-ATGGAGGAGGAACAAAGATT-TTTTTAATATACTTCT
+Human                     AGCTGAGCAACATGACAGCACA-ATAGAGGAGGAACAAAGATT-TTTTTAATATGTTTCT
+mouse                     AGCCAAGCAACATGACAGCACA-ATAGAGGAGGAACTAAGATC-GTTTTAATATGTTTCT
+cow                       AGCTGAGCACCGTGACAGCACA-ATGGAGGAGGAACAGACATC-GCTTTAATATGTTTCT
+dolphin                   AGCTGAGCACCGTGACAGCACG-GTAGAGG-GGAGCAGACATC-GCTCTAATGTGTTTCT
+horse                     AGCTGAGCGCCGTGACGGCACA-ATAGAGGAGGAACAGAGATT-GCTTTAATATGTCTCT
+megabat                   AGCTGAGGACCGTGTCAGCACG-ACGGAGGAGCAGCGAAGATT-GTTTTCATATGTCCCT
+sloth                     AGCTGAGCAACATGACAGCACA-ATAGAGGAGGAACAAAGATTTGTTTTAATATGTTTCT
+lizard                    AGCTGAACTATATGACAGCACA-ATGGAGGAGGAACAAAGATT-GTTTTAATATACTTCT
+speckled_rattlesnake      AGCTGAACAACATGACAGCACA-ATGGAAGAAGAGCACACATT-GTTTTAATATACTTCT
+king_cobra                ATAAAAGTGACTGCACTATATTTATGATCAGATGAGTTTAATCCCCTTTTATA-GCTGAT
+                               *         *   *                     *    * * **        
+
+boa                       ATCCTGTC-TCACAGTTTGAAATTGTCCTGGTTTATGTCCCTTTTGGCAAACTTACATAA
+burmese_python            ATCCTGTC-TCACAGTTTGAAATTGTCCTGGTTTATGTCCCTTTTGGCAAACTTACATAA
+coelacanth                ATCCTGTG-TCACAGTTTGAAGTTGTCCTGGTTTATGTCCCTTTTGGCAAACTTACATAA
+elephant_shark            ATCCTGTG-TCGCAGTTTGAGATTGTCCTGGTTTGCATCCCTTTTGGCAAACTTACATAA
+platypus                  ATCCTGTG-TCACAGTTTGAAATTGTCCTGGTTTATGTCCCTTTTGGCAAACTTACATAA
+chicken                   ATCCTGTG-TCACAGTTTGAAATTGTCCTGGTTTATGTCCCTTTTGGCAAACTTACATAA
+Human                     ATCCTGTG-TCACAGTTTGAAATTGTCCTGGTTTATGTCCCTTTTGGCAAACTTACATAA
+mouse                     ATCCTGTG-TCACAGTTTGAGATTGTCCTGGTTTATGTCGCTTTTGGCAAACTTACATAA
+cow                       ATCCTGTG-TCACAGTTTGAAATTGTCCTGGTTTATGTCCCTTTTGGCAAACTTACATAA
+dolphin                   GTCCTGTG-TCACAGTTTGAAATTGTCCTGGTTTATGTCCCTTTTGGCAAACTTACATAA
+horse                     ATCCTGTG-TCACAGTTTGAAATTGTCCTGGTTTATGTCCCTTTTGGCAAACTTACATAA
+megabat                   CTCCTGTG-TCACAGTTTGAAATTGTCCTGGTTTATGTCCCTTTTGGCAAACTTACATAA
+sloth                     ATCCTGTG-TCACAGTTTGAAATTGTCCTGGTTTATGTCCCTTTTGGCAAACTTACATAA
+lizard                    ATCCTGTG-TCACAGTTTGAAATTGTCCTGGTTTATGTCCCTTTTGGCAAACATACATAA
+speckled_rattlesnake      ATCCTGTT-TTACAATTTCAAATTGTCCTAATTTATGTTCCTTTTGGCAAACTTA-ATAA
+king_cobra                GTCAGGCCCTCACTATTAAAGAGACAGAAAAACAAGTAAGAAATCAAAAGAAATATGTCT
+                           **  *   *  *  **  *                       *    * *  **  *  
+
+boa                       AAGTGACTGTGTACTGTATTTTATGACCAGA-TGACTTGTCCCCCTT------TTCTG--
+burmese_python            AAGTGACTGTGTACTGTATTTTATGACCAGA-TGACTTTCCCCCCTT------TTCTG--
+coelacanth                AAGTGACCCTGTACTGTATTTTATGACCAGA-TGACTTTTTCTGTG--------------
+elephant_shark            AACTGACCATGTACTGTATTTTACGACCAGA-TGACTTTTTTTTTGTAGTGCCCATTGAA
+platypus                  AAGTGACCCTGTACTGTATTTTATGACCAGA-TGACTTTTTTTTTC-----CCCAGTG--
+chicken                   AAGTGACCCTGTACTGTATTTTATGACCAGA-TGACTTTTTT---------CCCAGTG--
+Human                     AAGTGACCTTGTACTGTATTTTATGACCAGA-TGACTTTTTCCCCC-------CAGTG--
+mouse                     AAGTGACCTTGTACTGTATTTTATGACCAGA-TGACTTTT-CCCCT-------CAGTG--
+cow                       AAGTGACCTTGTACTGTATTTTATGACCAGA-TGACTTTTTCCCCC-------CAGTG--
+dolphin                   AAGTGACCTTGTACTGTATTTTATGACCAGA-TGACTTTTTCCCCC-------CAGTG--
+horse                     AAGTGACCTTGTACTGTATTTTATGACCAGA-TGACTTTTTCCCCC-------CAGTG--
+megabat                   AAGTGACCCTGTACTGTATTTTATGACCAGA-TGACTTTTTCCCCC-------CAGTG--
+sloth                     AAGTGACCTTGTACTGTATTTTATGACCAGA-TGACTTTCCCCCCCG----CCCAGTG--
+lizard                    AAGTGACCATGTACTGTATTTTATGACCAGA-TGACTTTCCCCCCC-------TCGTG--
+speckled_rattlesnake      AAGTGAC--TGCATTGTATTTTGTGATCAGA-TGACTTTGTCCCCTT------TTCTA--
+king_cobra                CAATGACGCTTCATTGCATTCCTTCATTAGGGTTGCTTAATGTCTA-------TGGAGAT
+                           * ****  *  * ** ***     *  **  *  ***                      
+
+boa                       GCTAATTTGTATCAGGCCCCCAGTATTAAAGAGACA-CAGAAATGAGTAGGAAGCCAAAA
+burmese_python            GCTAATTTGTATCAGGTCCCCAGTATTAAAGAGACA-CAGAAACGAGTAGGAAGTCGAAA
+coelacanth                GCTAATTTGTATCAGGCTCCCA-TATTAAAGGGACA-CAGAAATTGGTAGGAAGTGCAAG
+elephant_shark            GTTAATTTGTATCAGG--CCCA-TATTAAAGAGACTTCAGAAATCGGTAGGAAGTAGAAG
+platypus                  GCTAATTTGTATCAGGCCCCCA-TCTTAAAGAGACA-CAGCAACGAGTAGGAAGTCTAAG
+chicken                   GCTAATTTGTATCAGACCCTCA-TCTTAAAGACACA-CAGAAATGAGTAGGAAGTCCAAA
+Human                     GCTAATTTGTATCAGGCCTCCA-TCTTAAAGAGACA-CAGAGT-GAGTAGGAAGTCCAGC
+mouse                     GCTAATTTGTCTCAGGCCTCCA-TCTTAAAGAGA------AGA-GAGTAGGAAGTCCAGC
+cow                       GCTAATTTGTATCAGGCCTCCA-TCTTAAAAAGACA-CAGAAATGAGTAGGAAGTCCA--
+dolphin                   GCTAATTTGTATCAGGCCTCCA-TCTTAAAGAGACA-CAGAAATGAGTAGGAAGTCCAGC
+horse                     GCTAATTTGTATCAGGCCTCCA-TCTTAAAGAGACA-CAGAAATAAGTAGGAAGTCCAGC
+megabat                   GCTAATTTGTGTCAGGCCTCCA-TCTTAAAGAGATG-CAGAAACGAGAAGGAAGTCCAGC
+sloth                     ACTAATTTGTATCAGGCCTCCA-TCTTAAAGAGACA-CAGAAATGAGTAGGAAGTCCAAG
+lizard                    ACTAATTTGTATCAGGCCCCCAATATTAAAGAGACA-CCGCATTGAGTAGGAAGTCTAAA
+speckled_rattlesnake      GCTAATTTATATCAGGCCTTCATTAGTAAAGAGACA-GAAAAAGAAGTAGGAAGCAAAAG
+king_cobra                TCTCAGTCAT-CCAGGTCATGGTTGTCCCAAAAGTG--CTTTTTCAATAGGCAACTGGAC
+                            * * *  *  ***        *     *                  *** *       
+
+boa                       GCAATATGTCTCAAGG--ACAGTTCATTGCATTCTTTGATTAGGTTT-TGCTTGTTTTTT
+burmese_python            GCAGTATGTCTCGAGG--ACGCTTCATTGCATTCTTTCATTAGGTTT-TGCTTGTTTTT-
+coelacanth                CCTGTTTGTGTCAGTTC---GCTTCATTGCATTCCTTCTCGGTTT---GGCTGGTGTGTT
+elephant_shark            TCTGCTT-TGTCAGTTT---GTTTCATTGCATTCTTTCATTTTTTTTAAACTTGTTTTTT
+platypus                  CCTGTTTGTCCCAGTG--AGCTTTCATTGCATTCTTTCATTATTTTT--GCTCGTTTTT-
+chicken                   CAGGTTTGTCTCAATG--AGCTTTCATTGCATGCTTTCATTATTTTT--GCTCGTTTTTT
+Human                     CTCT---GTCTCCACG--AGCTTTCATTGCATTCTTTCATTATTTTT--GCTCGTTTTTT
+mouse                     CTGG---GACTCCATG--AGCGTTCATTGGATTCTTTCATTATTTTT--GCTTGTTTTTT
+cow                       --------------------------TTGCATTCTTTCATTATTTTT--GCTCGTTTTT-
+dolphin                   TCC----GTCTCAGTG--AACTTTCATTGCATTCTTTCATTATTTTT--GCTCGTTCTT-
+horse                     TCG----GTCTCAGTG--AGCTTTCATTGCATTCTTTCATTATTTTT--GCTCGTTTTT-
+megabat                   CCG----GCCTCAGTC--AGCTTTCATTGCGTTCTTTCATTATTTTT--GCTCGTTTTTT
+sloth                     CCTC---TTTGTCGCAGTAGCTTTCATTGCATTCTTTCATTATTTTT--GCTCGTTTTT-
+lizard                    CCAGTATGTTTCAAGG--ACGCTTCATGGCATTCTTTCATTATTTTT--GCTCAGTTTT-
+speckled_rattlesnake      -CAATAGGTCTCAAGG--ACACTTCATTGCATTCCTTTATTAGGGCT-TGCTTATTTTTT
+king_cobra                TTTGTTTTTTCTTCGAAGTCGTTTCGCTTC--TTATCCAAGAAGCTT----CAATTTTTT
+                                                             *                      * 
+
+boa                       ------GCCACTG--ATCATCCATAAATTGCTGGAAATAAGTGATTAAGGAAGTGC--TG
+burmese_python            ------GCCACTG--ATCATCCATAAATTGCTGGAAATAAGTGATTAAGGAAGTGC--TG
+coelacanth                TG-----CTACTG--ATCATCCATAAATTGTTGGAAATGAGTGATTAAGGAAGTGC--TG
+elephant_shark            TTTCCCCCCGTTG--ATGATCCATAAATTGTTGGAAAAGACTTGTTACGGAAGCAC--TG
+platypus                  ------GCCACTG--ATCATCCATAAATTGTTGGAAATAAGTGATTAAGGAAGTAC--TG
+chicken                   ------GCCACTG--ATCATCCATAAATTGTTGGAAATGAGTGATTAAGGAAGTGC--TG
+Human                     ------GCCACTG--ATGATCCATAAATTGTTGGAAATGAGTGATTAAGGAAGTGC--TG
+mouse                     TT----GCCACTG--ATGATCCATAAATTGTTGGAAATGAGCGATTCAGGAAGTGC--TG
+cow                       ------GCCACTGTGATCATCCATAAATTGTTGGAAATGAGTGATTGAGGAAGTGC--TG
+dolphin                   ------GCCACTG--ATCATCCATAAATTGTTGGAAATGAGTGATTAAGGAAGTGC--TG
+horse                     ------GCCACTG--ATCATCCATAAATTGTTGGAAATGAGTGATTAAGGAAGTGC--TG
+megabat                   ------GCCACTG--ATCATCCATAAATTGTTGGAAATGAGTGATTAAGGAAGTGC--TG
+sloth                     ------GCCACTG--ATCATCCATAAATTGTTGGAAATGAGTGATTAAGGAAGTGC--TG
+lizard                    ------GCCACTG--CTCATCCATAAATTGTTGGGAATAAGTGATTGAGGAAGTGC--TG
+speckled_rattlesnake      G-----GCCACTG--ACAATTTATAAATTGCTGGAAATAAGTGATTAAGGAAGTGTGTTG
+king_cobra                ------GCCGTTG--ACAATCCATAAATTGCTGGAAATAAAGGATTAAGGAAGTGC--TG
+                                 *   **     **  ******** *** **  *    **  *****     **
+
+boa                       CTTAGTGTTAGTGGCACATAGATGTT-CTTGGTAAAGCTT-TTTTTGTGAGTGAAAGGAA
+burmese_python            CTTAGTGTTAGTGGCACATAGACGTT-CATGGTAACGCTT-TTTTTCTGAGTGAAAGGAA
+coelacanth                CTTAGTGTTAGTTGCACATGCATGTT-CTCGGTATGG----TTTTTGTGGGTGAGAGGAA
+elephant_shark            CTTTGTGTTAGTAGCACGTGCATATT-ATTCCTGTTC----ATTTGCCCAGTGAAGGGAG
+platypus                  CTTAGTGTTAGTGGCACATGCACCTA-CTTGGTATGG----TTTTTGTGGGTGAGAGGAA
+chicken                   CTTAGTGTTAGTGGCACATGCACATT-CTTGGTATGT----TTTTTGTGGGTGAGAGGAA
+Human                     CTTAGTGTTAGTGGCACATGCGCATA-TTTGGCCTGG----TTCTGGTGGGTGAGAGGAA
+mouse                     CTTAGTGTTAGTGGCAAATGCGCAAA-CTCAGTCTGG----TTCTGCTGGGTGAAAGGAA
+cow                       CTTAGTGTTAGTGGCACATGCGCATA-TTTGGCCTGG----TTTTTGTGGGTGAGAGGAA
+dolphin                   CTTAGTGTTAGTGGCACATGCGCATA-TTTGCATGGT----TTTTTGTGGGTGAGAGGAA
+horse                     CTTAGTGTTAGTGGCACATGCGCATA-TTTGGCATGT----TTTTTGTGGGTGAGAGGAA
+megabat                   CTTAGTGTTAGTGGCACATGCGCATA-TTCGCATG------TTTTTGTGGGCGAGAGGAA
+sloth                     CTTAGTGTTAGTGGCACATGCGCATA-TTTGGCCTGG----TTTTTGTGGGTGAGAGGAA
+lizard                    CTTAGTGTTAGTGGCACATGGATGTT-CTGGGTGAGGCT--TTTTTGTGGGTGAAAGGAA
+speckled_rattlesnake      TTTAGTGTTAGTGGTACATAGATGTTTCTTGGTGCAGCCTTTTTTTGTGAATGAAAGGAA
+king_cobra                CTTAGTGTTAGTGGCACATAGATGTT---------------CATCTGTGAATGAAAGGAA
+                           ** ******** * *  *                                 **  *** 
+
+boa                       ATCAGATATTGCAGAAACAAAAAGGAAGAATCCTGCTGGGAGCTTTTCA---AGGAAATT
+burmese_python            ATCAGATATTGCTGAAGCAAAAAGGAAGAATCCTGCTGGGAGCTTTTCA---TGGAAATT
+coelacanth                ATCA--------------------------------------------------------
+elephant_shark            ATGATGCTA------AACATATTGAAAGGCTGGAGGAGGGAGCTTTTCTCTCAGGAAAAG
+platypus                  ATCGCGTAC---------AAAAAGGAAAACTCCTGCTGGGAACCTTTCA---AGGAAATT
+chicken                   ATCGCGTACTGCACAAACAAAAAGGAAGACTCCTGCTGGGAACCTTTCA---AGGAAATT
+Human                     ATCACAGAC---------A-AAAGGGAAGCCCCTGCTGGGAACCCTGCA---AGGAAATT
+mouse                     ATCACAGGC---------A-AGAGGAAGGCTCCTGCTGGGAACCTTGCA---AGGAAATT
+cow                       ATCACATGC---------AAAAAGGGAAGCTCCTGCTGGGGACCTTTCA---AGGAAATT
+dolphin                   ATCACATAC---------AAAAAGGGAAACTCCTGCTGGGAACCTTTCA---GGGAAATT
+horse                     ATCACGTAC---------AAAAAGGAAAACTCCTGCTGGGACCCTTTCA---AGGAAATT
+megabat                   ATCACAGGC---------AGAAAGGAAGACCCCCGCTGGGAGCCTTTCA---GGGGACTT
+sloth                     ATCACATAC---------AAAAAGGAAAACTCCTGCTGGGAACCTTTCA---AGGAAATT
+lizard                    ATCAAGCTCTGTGCAAACATAAAGGAAGATTCCTGCTGGGAACCTTTCA---AGGAAATT
+speckled_rattlesnake      AACAGATACT------GGAAGAAGGAAGAATCCTGCTGGGAACTTTTCA---AGGAAATT
+king_cobra                ATTAGATATTGGAGAAACAAAAACGAAGAATCCTGCTGGGAGTTTTTCC---AGGAAATT
+                          *                                                           
+
+boa                       TAACTTGCAT-AATGTTTTGATCTTAATGTTTGTTACAAAAACATA-CAGCAGTATTTTA
+burmese_python            TAACTTGCAT-AATGTTTTGATCTTAATGTTTGTTACAAAAACATA-CAGCAGTATTTCA
+coelacanth                ------------------------------------------------------------
+elephant_shark            GAGCTCTTGT-TGAAATTCGGGCTCGACGTTCATTTTGGAAAAGA--TTTCGGTGTTTAA
+platypus                  TAACTTGCAT-AATGTTTTGATCTTGGTGTTTATTACAGAAAATA--GAGTAATATTTCA
+chicken                   TAACTTGCAT-AATGTTTTGATCTTGGTGTTTATTACAGAATATAA-GAGTAATATTTCA
+Human                     TAACTTGGGT-CATGTTTTGATCTTAGTGTTTATTACAGAAAATG--AAGCCATATCTCA
+mouse                     TGACTTGGG--CATGTTTTGATCTTGGCATTTATTACAGAAAATG--AAGTCATATCTCA
+cow                       TACCTTGGGT-CTCGTTTTGATCTTGGTGTTTATTACAGAAAATG--GAGTCATATCTCA
+dolphin                   TACCTTGGGTTCTCGTTTTGATCTTGGTGTTTATTACAGAAAATG--GAGTCATATCTCA
+horse                     TACCTTGGGT-CGCGTTTTGATCTTGCTGTTTATAGCAGAAAATG--GAGTCATATCTCA
+megabat                   CACCCAGGGT-CGCGTTTTGATCTT--CGTTTATTACAGAAGATG--GAGTCATATCTCA
+sloth                     TAGCTTGGGT-CATGTTTTGATCTTGGTGTTTATTACAGAAAATG--GAGTCATATCTCA
+lizard                    TAACTTGCAT-AATGTTTTGATCTTGGTGTTCCTTACAAAAAATA--GAGCAATATTTCA
+speckled_rattlesnake      TAGCCTACAT-AATGTTTTGATCTTAATGTTTGTTACAAAAAACATACAGCAGTATTTTA
+king_cobra                TAGCCTGCAT-AATATTTTGATCTTAATGTTTGTTACAAAAGATA--CAGCATTCATTTG
+                                                                                      
+
+boa                       CCAGGTGCTGTGTGTC-----AAGTAATAA-----CCCCATCACTG--------------
+burmese_python            CCAGGTGCTGTGTGTC-----AAGTATTAA-----CTCCATCACTG--------------
+coelacanth                ------------------------------------------------------------
+elephant_shark            AATGTTTTGGAGAACTTTCTGGAAAGTTACTTCTTTTTAAATATGATACCGTTTTGAGTT
+platypus                  CCAGCTATTGTTA---------TGTGTCAGTTCATTTAGTCTTCCCTT------------
+chicken                   CCAGCTATTGTTA---------TGTGTCAG-----CTAGGCTCTCC--------------
+Human                     CTAACTATTGTTA---------CGTGTTAA-----TTTGATTTTCC--------------
+mouse                     CTAACTGTTGCTA---------TGTGTTAA-----TTTGATTCTCC--------------
+cow                       CTAGCTATTGTTA---------TGTGTTAA-----TTTGATTTTCC--------------
+dolphin                   CTAACTATTGTTA---------TGTGTTAA-----TTTGATTTTCC--------------
+horse                     CTAACTATTGTTA---------TGTGTTAA-----TTTGATTTTCC--------------
+megabat                   CTGACCACTGTTA---------TGTGTTAA-----TTTGATTTTTC--------------
+sloth                     CTAACTATTGTTACATGGT--ATATGTTAA-----TTTGATTT-----------------
+lizard                    TTAGCTGTTGTGTGT-------CAAGTAATAACCCCATCATCACGT--------------
+speckled_rattlesnake      CCAGATTCTGTAT--------GTCAACTAA-----CCCCATCACTG--------------
+king_cobra                TTACAAAATGAAACAGGTGCTGTATGTCAA----TTATAACCCTATCACTG---------
+                                                                                      
+
+boa                       ------------------------------------------------------------
+burmese_python            ------------------------------------------------------------
+coelacanth                ------------------------------------------------------------
+elephant_shark            TAAAATCACTGAATTCCGCTCGGTTTTACGAGACCTTCGGCTCCACTGAAATCCGCGAAT
+platypus                  ------------------------------------------------------------
+chicken                   ------------------------------------------------------------
+Human                     ------------------------------------------------------------
+mouse                     ------------------------------------------------------------
+cow                       ------------------------------------------------------------
+dolphin                   ------------------------------------------------------------
+horse                     ------------------------------------------------------------
+megabat                   ------------------------------------------------------------
+sloth                     ------------------------------------------------------------
+lizard                    ------------------------------------------------------------
+speckled_rattlesnake      ------------------------------------------------------------
+king_cobra                ------------------------------------------------------------
+                                                                                      
+
+boa                       ------------------------------------------------------------
+burmese_python            ------------------------------------------------------------
+coelacanth                ------------------------------------------------------------
+elephant_shark            ACGTGAAATGTGCAAGGAGTGAGTGCAAATGTTCAGAAGTCTTTGCCTGAACTTTTTGTA
+platypus                  ------------------------------------------------------------
+chicken                   ------------------------------------------------------------
+Human                     ------------------------------------------------------------
+mouse                     ------------------------------------------------------------
+cow                       ------------------------------------------------------------
+dolphin                   ------------------------------------------------------------
+horse                     ------------------------------------------------------------
+megabat                   ------------------------------------------------------------
+sloth                     ------------------------------------------------------------
+lizard                    ------------------------------------------------------------
+speckled_rattlesnake      ------------------------------------------------------------
+king_cobra                ------------------------------------------------------------
+                                                                                      
+
+boa                       -------------------
+burmese_python            -------------------
+coelacanth                -------------------
+elephant_shark            TGATTTTGATTATAATAAT
+platypus                  -------------------
+chicken                   -------------------
+Human                     -------------------
+mouse                     -------------------
+cow                       -------------------
+dolphin                   -------------------
+horse                     -------------------
+megabat                   -------------------
+sloth                     -------------------
+lizard                    -------------------
+speckled_rattlesnake      -------------------
+king_cobra                -------------------
+                                             
